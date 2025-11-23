@@ -1,0 +1,7 @@
+{
+  "name": "LocalFinder AI",
+  "description": "Encontre mercados, farmácias e barbearias próximos usando o Google Maps e Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
